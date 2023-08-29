@@ -1,5 +1,5 @@
 
-**Project Title**: Weather App
+## Weather App
 
 **Description**:
 
